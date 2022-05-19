@@ -11,24 +11,29 @@ Second year student at Epitech Bordeaux
 
 📚 Along my studies, I also take part in the supervision of educational activities of our first and second year students. This involves monitoring their projects and morale.
 
-*   🌍  I'm based in Bordeaux
-*   ✉️  You can contact me at [solene.lefeu@epitech.eu](mailto:solene.lefeu@epitech.eu)
-*   🧠  I'm learning C++ and Flutter
-
-### Skills
-<p align="left">
+<h2 align="center">🧠 Languages & Skills 🔨</h2>
+<p align="middle">
+                                    <a href="https://www.github.com/slefeu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
                                 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+  </a>
                     </p>
                     
+<h2 align="center"> 🌍 Contacts 🌍 </h2>
+<p align="middle">
+  </a> <a href="https://www.linkedin.com/in/solene-lefeu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<p align="middle"> 
+  </a> <a
 
-### Socials
-<p align="left">
-  <a href="https://www.github.com/slefeu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/solene-lefeu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://solene-lefeu.itch.io/darkest-moon)
+[solene.lefeu@epitech.eu](mailto:solene.lefeu@epitech.eu)
+
+<p align="middle"> 
+  </a> <a
+          
+You can find my Video Game projects on [Itch](solene-lefeu.itch.io/)
 
 ### <b>Top Repositories</b>
 
