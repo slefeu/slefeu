@@ -33,7 +33,7 @@ Second year student at Epitech Bordeaux
 <p align="middle"> 
   </a> <a
           
-You can find my Video Game projects on [Itch](solene-lefeu.itch.io/)
+You can find my Video Game projects on [Itch](https://solene-lefeu.itch.io/)
 
 ### <b>Top Repositories</b>
 
