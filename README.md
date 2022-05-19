@@ -4,7 +4,11 @@ Hi 👋 I'm Solène
 Second year student at Epitech Bordeaux
 ---------------------------------------
 
-💼 I am currently in my second year of training for the Title of Expert in Information Technology. During my formation, I was able to acquire solid knowledges in C and C++ as well as some notions in Python and Flutter. 👾 On the side, I am expand my knowledge of the Unity game engine, where I mainly do Level Design in 3D and 2D, while learning C#. I also make mobile apps with Flutter and Dart. 📚 Along my studies, I also take part in the supervision of educational activities of our first and second year students. This involves monitoring their projects and morale.
+💼 I am currently in my second year of training for the Title of Expert in Information Technology. During my formation, I was able to acquire solid knowledges in C and C++ as well as some notions in Python and Flutter.
+
+👾 On the side, I am expandING my knowledge of the Unity game engine, where I mainly do Level Design in 3D and 2D, while learning C#. I also make mobile apps with Flutter and Dart. 
+
+📚 Along my studies, I also take part in the supervision of educational activities of our first and second year students. This involves monitoring their projects and morale.
 
 *   🌍  I'm based in Bordeaux
 *   ✉️  You can contact me at [solene.lefeu@epitech.eu](mailto:solene.lefeu@epitech.eu)
