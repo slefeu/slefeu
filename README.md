@@ -1,4 +1,4 @@
-Hi 👋 My name is Solène
+Hi 👋 I'm Solène
 =======================
 
 Second year student at Epitech Bordeaux
