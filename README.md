@@ -7,7 +7,7 @@ Second year student at Epitech Bordeaux
 
 💼 I am currently in my second year of training for the Title of Expert in Information Technology. During my formation, I was able to acquire solid knowledges in C and C++ as well as some notions in Python and Flutter.
 
-👾 On the side, I am expandING my knowledge of the Unity game engine, where I mainly do Level Design in 3D and 2D, while learning C#. I also make mobile apps with Flutter and Dart. 
+👾 On the side, I am expanding my knowledge in the Unity game engine, where I mainly do Level Design in 3D and 2D, while learning C#. I also make mobile apps with Flutter and Dart. 
 
 📚 Along my studies, I also take part in the supervision of educational activities of our first and second year students. This involves monitoring their projects and morale.
 
@@ -28,6 +28,7 @@ Second year student at Epitech Bordeaux
 ### Socials
 <p align="left">
   <a href="https://www.github.com/slefeu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/solene-lefeu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://solene-lefeu.itch.io/darkest-moon)
 
 ### <b>Top Repositories</b>
 
