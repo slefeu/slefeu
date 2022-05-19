@@ -3,8 +3,7 @@ Hi 👋 I'm Solène
 
 Second year student at Epitech Bordeaux
 ---------------------------------------
-<a href="https://www.github.com/slefeu" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/slefeu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=slefeu.slefeu)        ![Follow](https://img.shields.io/github/followers/slefeu?label=Follow&style=social)
 
 💼 I am currently in my second year of training for the Title of Expert in Information Technology. During my formation, I was able to acquire solid knowledges in C and C++ as well as some notions in Python and Flutter.
 
