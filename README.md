@@ -1,5 +1,4 @@
-Hi 👋 I'm Solène
-=======================
+<h1 align="center"> Solène Lefeu 🇨🇵 French developer 📚 Epitech student  </h1>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=slefeu.slefeu)        ![Follow](https://img.shields.io/github/followers/slefeu?label=Follow&style=social)
 
