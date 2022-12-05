@@ -5,7 +5,7 @@
  Welcome on my github page !
 <h1 align="center">  About me 💬 </h1>
 
-💼 I am currently a second year student at Epitech Bordeaux, training for the title of Expert in Information Technology. During my formation, I was able to acquire solid knowledges in C and C++ as well as some notions in Python and Flutter.
+💼 I am currently a third year student at Epitech Bordeaux, training for the title of Expert in Information Technology. During my formation, I was able to acquire solid knowledges in C and C++ as well as some notions in Python and Flutter.
 
 👾 On the side, I am expanding my knowledge in the Unity game engine, where I mainly do Level Design in 3D and 2D, while learning C#. I also make mobile apps with Flutter and Dart. 
 
