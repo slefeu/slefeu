@@ -11,6 +11,7 @@
 
 📚 Along my studies, I also take part in the supervision of educational activities of our first and second year students. This involves monitoring their projects and morale.
 
+Check out my [portfolio](https://solene-lefeu.netlify.app/) made with React !
 <h2 align="center">🧠 Languages & Skills 🔨</h2>
 <p align="middle">
                                     <a href="https://www.github.com/slefeu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
